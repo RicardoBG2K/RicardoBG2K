@@ -17,7 +17,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobg2k&theme=dark">
    </a>
     <a href ="https://www.instagram.com/riic_bg07/"><img align="center" src="https://giffiles.alphacoders.com/141/14119.gif"> </a>
-    <img align="right" alt="Gif" height="100" width="100" src="http://pa1.narvii.com/6435/a5fd4fbab76fa68015adb9a837cc947eba6f54d9_00.gif">
+    <img align="right" alt="Gif" height="100" width="100" src="[http://pa1.narvii.com/6435/a5fd4fbab76fa68015adb9a837cc947eba6f54d9_00.gif](https://giffiles.alphacoders.com/141/14119.gif)">
     <img  align="center" alt="Gif" height="150" width="150" src="https://66.media.tumblr.com/tumblr_ma4fsg8aDZ1rfjowdo1_500.gif">
 </div>
   
