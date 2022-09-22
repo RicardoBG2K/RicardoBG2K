@@ -1,7 +1,6 @@
-<h1> <img alt="Gif" height="150" width="150" src="https:https://c.tenor.com/YursGRYKx08AAAAj/pokemon-gengar.gif>    Hi there 👋<br> </h1>
+   <h1> <img alt="Gif" height="50" width="45" src="https://c.tenor.com/YursGRYKx08AAAAj/pokemon-gengar.gif">  Hi there 👋 </h1>
    <div align="center">
    </div>
-
 
 - System Analysis and Development. <br>
 2° semester - (UNINOVE -UNINOVE - Campus Memorial).
