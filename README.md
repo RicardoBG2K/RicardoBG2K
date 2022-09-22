@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
+  <img  align="right" alt="Gif" height="150" width="150" src="https://66.media.tumblr.com/tumblr_ma4fsg8aDZ1rfjowdo1_500.gif">
 
 ![snake gif](https://github.com/RicardoBG2K/RicardoBG2K/blob/output/github-contribution-grid-snake.svg)
