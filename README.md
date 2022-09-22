@@ -2,7 +2,7 @@
    <div align="center">
    </div>
 
-   <a  href ="https://www.instagram.com/riic_bg07/"><img height="180" width="180" src="https://o.remove.bg/downloads/e1649187-9179-4b90-a404-f98b448bbdea/54579509-9cb0-4445-9291-ca5d7cb606ba-removebg-preview.png"> 
+   <a  href ="https://www.instagram.com/riic_bg07/"><img height="180" width="180" src="https://instagram.fgru6-1.fna.fbcdn.net/v/t51.2885-15/308206638_459590052863174_6589151702481823359_n.jpg?stp=dst-jpg_e15_p480x480&_nc_ht=instagram.fgru6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=_ilNkKLx1jgAX847Jkj&edm=ABJHkxYAAAAA&ccb=7-5&ig_cache_key=MjkzMzEzMzc1MTI0NjI4NDI4NA%3D%3D.2-ccb7-5&oh=00_AT9F_CJtodKn2-rznUa5KR6_cxr9_N96FGyWB6D7F3u4kg&oe=6333C45C&_nc_sid=fa978c"> 
    </a>
    
  - My name is Ricardo, I'm 21 years old. 
