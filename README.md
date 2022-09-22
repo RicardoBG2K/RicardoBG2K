@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> <img alt="Gif" height="50" width="45" src="https://aspertia.carrd.co/assets/images/image06.gif"> ### Hi there 👋
 
 - System Analysis and Development. <br>
 2° semester - (UNINOVE -UNINOVE - Campus Memorial).
