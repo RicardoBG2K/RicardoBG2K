@@ -19,7 +19,7 @@
 <div>
    <a href="https://github.com/RicardoBG2k">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobg2k&theme=dark">
- 
+ </a>
    <img align="right" alt="Gif" height="100" width="100" src="https://66.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gif">
    <img align="right" alt="Gif" height="150" width="150" src="https://66.media.tumblr.com/tumblr_ma4fsg8aDZ1rfjowdo1_500.gif">
       <img align="right" alt="Gif" height="100" width="100" src="http://mysteriousflower.weebly.com/uploads/4/1/6/4/41646797/_________5886641_orig.gif">
