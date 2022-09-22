@@ -20,5 +20,9 @@
 <a href="https://github.com/RicardoBG2k">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobg2k&theme=dark">
 </a>
+<a href="https://github.com/eduhpereira">
+ <img align="center" src="https://i.pinimg.com/originals/db/f2/55/dbf255f9f7ba73f466e9129fc698d779.gif_height=30" alt="Eduardo's github stats"/>
+</a>
+
  
 ![snake gif](https://github.com/RicardoBG2K/RicardoBG2K/blob/output/github-contribution-grid-snake.svg)
