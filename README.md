@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  <div> 
   
-    <a <h6> Meu perfil no Linkedin:  href ="https://www.linkedin.com/in/ricardo-batista-guimar%C3%A3es-66659b230/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" target="blank" height="27px" width="27px"></h6></a>
+  <h6> Meu perfil no Linkedin: </h6> <a  href ="https://www.linkedin.com/in/ricardo-batista-guimar%C3%A3es-66659b230/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" target="blank" height="27px" width="27px"></a>
     </div>
  
 ![snake gif](https://github.com/RicardoBG2K/RicardoBG2K/blob/output/github-contribution-grid-snake.svg)
