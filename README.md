@@ -6,7 +6,7 @@
    </a>
    
  - My name is Ricardo, I'm 21 years old. 
- - System Analysis and Development. <br>
+ - Student of Systems Analysis and Development. <br>
  - 2° semester - (UNINOVE - Campus Memorial).
  - Brazil ( São Paulo - SP).
 
