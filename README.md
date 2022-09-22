@@ -4,9 +4,9 @@
 
  <img align="left" alt="Gif" height="100" width="100" src="http://mysteriousflower.weebly.com/uploads/4/1/6/4/41646797/_________5886641_orig.gif">
  
-### - System Analysis and Development. <br>
-### - 2° semester - (UNINOVE - Campus Memorial).
-### - Brazil ( São Paulo - SP).
+ - System Analysis and Development. <br>
+ - 2° semester - (UNINOVE - Campus Memorial).
+ - Brazil ( São Paulo - SP).
 
 
   
