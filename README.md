@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Gif" height="150" width="150" src="https://64.media.tumblr.com/c15b061360fa577cfa6fa1868bc45962/tumblr_o2d65b8VYl1so9b4uo1_500.gif">
+<img align="right" alt="Gif" height="50" width="50" src="https://64.media.tumblr.com/c15b061360fa577cfa6fa1868bc45962/tumblr_o2d65b8VYl1so9b4uo1_500.gif">
   <img  align="right" alt="Gif" height="150" width="150" src="https://66.media.tumblr.com/tumblr_ma4fsg8aDZ1rfjowdo1_500.gif">
 
 ![snake gif](https://github.com/RicardoBG2K/RicardoBG2K/blob/output/github-contribution-grid-snake.svg)
