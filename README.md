@@ -3,7 +3,8 @@
    </div>
 
 - System Analysis and Development. <br>
-- 2° semester - (UNINOVE -UNINOVE - Campus Memorial).
+- 2° semester - (UNINOVE - Campus Memorial).
+- Brazil ( São Paulo - SP).
 
 <div>
   <img align="right" alt="Gif" height="100" width="100" src="https://64.media.tumblr.com/c15b061360fa577cfa6fa1868bc45962/tumblr_o2d65b8VYl1so9b4uo1_500.gif">
