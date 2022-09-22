@@ -10,7 +10,7 @@
 
 
   
-     <h6> My profile in Linkedin: </h6> <a  href ="https://www.linkedin.com/in/ricardo-batista-guimar%C3%A3es-66659b230/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" target="blank" height="27px" width="27px"></a>
+     <h6> My profile in Linkedin: </h6> <a  href ="https://www.linkedin.com/in/ricardo-batista-guimar%C3%A3es-66659b230/"><img align="right" alt="Gif" height="150" width="150" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" target="blank" height="27px" width="27px"></a>
       
       
     
