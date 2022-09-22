@@ -19,7 +19,7 @@
 <div>
    <a href="https://github.com/RicardoBG2k">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobg2k&theme=dark">
-   <img align="center" src=" http://pa1.narvii.com/6826/93b00040cdf43d4259de7b1c44b7fb7226d2c570_00.gif">
+   <img align="center" src="http://pa1.narvii.com/6826/93b00040cdf43d4259de7b1c44b7fb7226d2c570_00.gif">
  </a>
    <img align="right" alt="Gif" height="100" width="100" src="https://66.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gif">
    <img align="right" alt="Gif" height="150" width="150" src="https://66.media.tumblr.com/tumblr_ma4fsg8aDZ1rfjowdo1_500.gif">
