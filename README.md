@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobg2k&theme=dark">
 </a>
 <a href="https://github.com/eduhpereira">
- <img align="center" src="https://i.pinimg.com/originals/db/f2/55/dbf255f9f7ba73f466e9129fc698d779.gif">
+ <img align="center" src="https://o.remove.bg/downloads/e1649187-9179-4b90-a404-f98b448bbdea/54579509-9cb0-4445-9291-ca5d7cb606ba-removebg-preview.png">
 </a>
 
  
