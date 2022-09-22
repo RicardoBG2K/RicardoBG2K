@@ -2,8 +2,7 @@
    <div align="center">
    </div>
 
-   <a  href ="https://www.instagram.com/riic_bg07/"><img height="180" width="180" src="![54579509-9cb0-4445-9291-ca5d7cb606ba-removebg-preview (1)](https://user-images.githubusercontent.com/99771077/191840088-c4786f49-b295-4ace-ada2-6762d36e9a58.png)
-"> 
+   <a  href ="https://www.instagram.com/riic_bg07/"><img height="180" width="180" src="https://i.imgur.com/YcvXMPT.png"> 
    </a>
    
  - My name is Ricardo, I'm 21 years old. 
