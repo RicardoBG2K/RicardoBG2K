@@ -19,7 +19,7 @@
     
 <div>
    <a href="https://github.com/RicardoBG2k">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobg2k&theme=dark">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobg2k&theme=panda">
    
    <a href ="h#"><img height="180" width="180" src="http://pa1.narvii.com/6826/93b00040cdf43d4259de7b1c44b7fb7226d2c570_00.gif">
  </a>
