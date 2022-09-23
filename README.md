@@ -19,7 +19,8 @@
     
 <div>
    <a href="https://github.com/RicardoBG2k">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobg2k&theme=dark">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoBG2K&layout=compact&langs_count=7&theme=dark">
+   
    <a href ="h#"><img height="180" width="180" src="http://pa1.narvii.com/6826/93b00040cdf43d4259de7b1c44b7fb7226d2c570_00.gif">
  </a>
    <img align="right" alt="Gif" height="100" width="100" src="https://66.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gif">
